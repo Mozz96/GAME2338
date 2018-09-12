@@ -5,7 +5,7 @@
 * Platform: PC
 * Year: 2011
 
-## Summary:
+## Summary: 
 For our first review, we were tasked to play the locally-created game Respawn, made here at our very own Northwest Vista College.
 The game places you in the shoes of a scientist that has created a "Respawn Machine", which allows the user to 'respawn' (Hence the game title) to wherever they place it when the user dies. Unfortunately for our protagonist, another scientist wants the machine, so you escape through the window and traverse rooftops and construction sites, making use of the respawn machine by throwing it and dying in order to spawn where it was thrown.
 
