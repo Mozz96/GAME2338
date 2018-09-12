@@ -5,7 +5,7 @@
 * Platform: Xbox, Playstation, Windows, Mac, Android, iOS
 * Year: 2014
 
-## Summary:
+## Summary: 
 Widely considered to be one of Telltale Games' best, Tales from the Borderlands is , of course, based in the universe of the Borderlands series. Taking place after the events of Borderlands 2, players take control of the main characters Rhys, an employee of the evil Hyperion Corporation, and Fiona, a con artist working with her sister and her mentor to get rich. Both characters' stories are interlinked, being told after-the-fact (at least where I stopped).
 
 ## Thoughts (Final and Otherwise):
