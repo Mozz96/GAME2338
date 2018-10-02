@@ -1,9 +1,9 @@
 # Game Review 4 - Dragalia Lost
 
 ## Details:
-Game Title: Dragalia Lost
-Platform: Android, iOS
-Year 2018
+* Game Title: Dragalia Lost
+* Platform: Android, iOS
+* Year: 2018
 
 ## Summary:
 Dragalia Lost is a mobile casual RPG that has been released ***very*** recently by Nintendo, not even a week old as of the time of writing this review. It follows the story of Euden, the 6th prince and heir to the throne of the fictional world of Alberia, and his companions: his sister the High Auspex Zethia, a kind yet very blunt Faerie named Notte, the battle-hardened but compassionate mercenary Ranzal, and the straightforward and kind-hearted paladin Elisanne. 
